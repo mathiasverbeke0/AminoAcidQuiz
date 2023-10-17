@@ -11,25 +11,31 @@ Make sure you have the following software installed on your system:
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Move into the home directory:**
     
-        ```bash
-        git clone https://github.com/mathiasverbeke0/AminoAcidQuiz.git
-        ```
+```bash
+cd ~
+```
 
-2. **Move into the project directory:**
+2. **Clone the repository:**
+    
+```bash
+git clone https://github.com/mathiasverbeke0/AminoAcidQuiz.git
+```
+
+3. **Move into the project directory:**
         
-            ```bash
-            cd AminoAcidQuiz
-            ``` 
+```bash
+cd AminoAcidQuiz
+``` 
 
-3. **Start a PHP server:**
+5. **Start a PHP server:**
         
-            ```bash
-                php -S localhost:8080
-            ```
+```bash
+php -S localhost:8080
+```
 
-4. **Open your web browser and visit `http://localhost:8000` to access the Amino Acid Quiz App.**
+6. **Open your web browser and visit `http://localhost:8000` to access the Amino Acid Quiz App.**
 
 ## Usage
 
